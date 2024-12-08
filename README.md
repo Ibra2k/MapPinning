@@ -31,8 +31,7 @@ A lightweight and intuitive application that lets users pin areas of interest on
 5. Run the project.
 
 # Preview
-
-
+https://github.com/user-attachments/assets/a36dc435-6ab1-4e7c-96a6-597658acf647
 
 
 # Contact
